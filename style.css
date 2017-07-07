@@ -1,0 +1,10 @@
+h1 {
+    text-align:center;
+    border:solid;
+    border-style:outset;
+    margin:50px;
+    border-color:red;
+}
+body {
+    background-color:silver;
+}
